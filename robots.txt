@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-iptv-subscription-usa.github.io/sitemap.xml
